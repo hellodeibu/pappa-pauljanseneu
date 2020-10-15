@@ -12,7 +12,7 @@
 	<atom:link href="/category/management/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
-	<lastBuildDate>Thu, 07 Mar 2019 12:33:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2020 02:42:13 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,7 +66,6 @@
 		<item>
 		<title>Creativiteit ipv protocollen</title>
 		<link>/creativiteit-ipv-protocollen/</link>
-					<comments>/creativiteit-ipv-protocollen/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Thu, 01 Mar 2018 16:13:50 +0000</pubDate>
@@ -89,7 +88,7 @@
 </header>
 </div>
 </div>
-<div class="row">Paul Jansen en Dick Kits <time datetime="2018-02-28">28-02-2018 </time><time datetime="$date.format("><span class="publishing-time">13:23 </span></time><a href="https://www.rd.nl/opinie">Opinie</a> (Eerder gepubliceerd in het <a href="https://www.rd.nl/opinie/maatschappij-beter-af-met-creativiteit-dan-met-protocollen-1.1470440" target="_blank" rel="noopener">Reformatorisch Dagblad</a>)</div>
+<div class="row">Paul Jansen en Dick Kits <time datetime="2018-02-28">28-02-2018 </time><time datetime="$date.format("><span class="publishing-time">13:23 </span></time><a href="https://www.rd.nl/opinie">Opinie</a> (Eerder gepubliceerd in het <a href="https://www.rd.nl/opinie/maatschappij-beter-af-met-creativiteit-dan-met-protocollen-1.1470440" target="_blank" rel="noopener noreferrer">Reformatorisch Dagblad</a>)</div>
 <div></div>
 <div><a href="/wp-content/uploads/2018/03/ANP-50324829.jpg"><img loading="lazy" class="aligncenter size-full wp-image-857" src="/wp-content/uploads/2018/03/ANP-50324829.jpg" alt="" width="1024" height="576" srcset="/wp-content/uploads/2018/03/ANP-50324829.jpg 1024w, /wp-content/uploads/2018/03/ANP-50324829-300x169.jpg 300w, /wp-content/uploads/2018/03/ANP-50324829-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div>
 </div>
@@ -130,15 +129,12 @@
 <p>Het bericht <a rel="nofollow" href="/creativiteit-ipv-protocollen/">Creativiteit ipv protocollen</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/creativiteit-ipv-protocollen/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Het EQnomie Manifest</title>
 		<link>/het-eqnomie-manifest/</link>
-					<comments>/het-eqnomie-manifest/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Wed, 01 Feb 2017 11:55:31 +0000</pubDate>
@@ -189,8 +185,6 @@ mits u de bron (</strong><strong><a style="color: #800000;" href="http://www.pau
 <p>Het bericht <a rel="nofollow" href="/het-eqnomie-manifest/">Het EQnomie Manifest</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/het-eqnomie-manifest/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

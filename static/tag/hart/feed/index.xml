@@ -12,7 +12,7 @@
 	<atom:link href="/tag/hart/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
-	<lastBuildDate>Sat, 23 Aug 2014 12:26:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2020 02:42:21 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>De kracht van kwetsbaarheid</title>
 		<link>/de-kracht-van-kwetsbaarheid/</link>
-					<comments>/de-kracht-van-kwetsbaarheid/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sat, 23 Aug 2014 12:26:42 +0000</pubDate>
@@ -47,8 +46,6 @@
 <p>Het bericht <a rel="nofollow" href="/de-kracht-van-kwetsbaarheid/">De kracht van kwetsbaarheid</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/de-kracht-van-kwetsbaarheid/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

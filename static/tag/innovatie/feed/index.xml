@@ -12,7 +12,7 @@
 	<atom:link href="/tag/innovatie/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
-	<lastBuildDate>Sat, 01 Aug 2015 15:04:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2020 02:42:25 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Dementie: Het Hele Verhaal</title>
 		<link>/dementiehetheleverhaal/</link>
-					<comments>/dementiehetheleverhaal/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sat, 01 Aug 2015 15:04:59 +0000</pubDate>
@@ -50,15 +49,12 @@
 <p>Het bericht <a rel="nofollow" href="/dementiehetheleverhaal/">Dementie: Het Hele Verhaal</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/dementiehetheleverhaal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Échte Wetenschap</title>
 		<link>/echte-wetenschap/</link>
-					<comments>/echte-wetenschap/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sat, 19 Jul 2014 09:11:38 +0000</pubDate>
@@ -77,8 +73,6 @@
 <p>Het bericht <a rel="nofollow" href="/echte-wetenschap/">Échte Wetenschap</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/echte-wetenschap/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

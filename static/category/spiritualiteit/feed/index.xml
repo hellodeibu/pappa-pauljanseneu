@@ -12,7 +12,7 @@
 	<atom:link href="/category/spiritualiteit/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
-	<lastBuildDate>Thu, 07 Mar 2019 12:33:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2020 02:42:18 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,7 +66,6 @@
 		<item>
 		<title>Mijn Talisman</title>
 		<link>/mijn-talisman/</link>
-					<comments>/mijn-talisman/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sun, 28 May 2017 17:27:50 +0000</pubDate>
@@ -85,15 +84,12 @@
 <p>Het bericht <a rel="nofollow" href="/mijn-talisman/">Mijn Talisman</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mijn-talisman/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>De Vier Afspraken</title>
 		<link>/de-vier-afspraken/</link>
-					<comments>/de-vier-afspraken/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Mon, 27 Mar 2017 18:03:41 +0000</pubDate>
@@ -120,15 +116,12 @@ Jouw best zal van moment tot moment veranderen; het zal anders zijn wanneer je g
 <p>Het bericht <a rel="nofollow" href="/de-vier-afspraken/">De Vier Afspraken</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/de-vier-afspraken/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Emoties komen uit het Brein, niet uit het Hart</title>
 		<link>/emoties-komen-uit-het-brein-en-niet-uit-het-hart/</link>
-					<comments>/emoties-komen-uit-het-brein-en-niet-uit-het-hart/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Tue, 08 Sep 2015 18:00:41 +0000</pubDate>
@@ -153,8 +146,6 @@ Jouw best zal van moment tot moment veranderen; het zal anders zijn wanneer je g
 <p>Het bericht <a rel="nofollow" href="/emoties-komen-uit-het-brein-en-niet-uit-het-hart/">Emoties komen uit het Brein, niet uit het Hart</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/emoties-komen-uit-het-brein-en-niet-uit-het-hart/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

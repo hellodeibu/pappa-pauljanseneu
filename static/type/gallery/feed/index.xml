@@ -12,7 +12,7 @@
 	<atom:link href="/type/gallery/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
-	<lastBuildDate>Sat, 19 Jul 2014 09:11:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2020 02:42:25 +0000</lastBuildDate>
 	<language>nl</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Échte Wetenschap</title>
 		<link>/echte-wetenschap/</link>
-					<comments>/echte-wetenschap/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sat, 19 Jul 2014 09:11:38 +0000</pubDate>
@@ -49,15 +48,12 @@
 <p>Het bericht <a rel="nofollow" href="/echte-wetenschap/">Échte Wetenschap</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/echte-wetenschap/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Denken over Dementie&#8230;</title>
 		<link>/denken-over-dementie/</link>
-					<comments>/denken-over-dementie/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sun, 13 Jul 2014 15:40:39 +0000</pubDate>
@@ -71,15 +67,12 @@
 <p>Het bericht <a rel="nofollow" href="/denken-over-dementie/">Denken over Dementie&#8230;</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/denken-over-dementie/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Denken over Dementie&#8230;</title>
 		<link>/denken-over-dementie-2/</link>
-					<comments>/denken-over-dementie-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>
 		<pubDate>Sun, 13 Jul 2014 15:40:39 +0000</pubDate>
@@ -93,8 +86,6 @@
 <p>Het bericht <a rel="nofollow" href="/denken-over-dementie-2/">Denken over Dementie&#8230;</a> verscheen eerst op <a rel="nofollow" href="/">Paul Jansen</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/denken-over-dementie-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
