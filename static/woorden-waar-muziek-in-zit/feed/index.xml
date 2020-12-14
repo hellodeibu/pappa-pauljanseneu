@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Woorden waar muziek in zit	</title>
+	Comments on: Woorden waar muziek in zit	</title>
 	<atom:link href="/woorden-waar-muziek-in-zit/feed/" rel="self" type="application/rss+xml" />
 	<link>/woorden-waar-muziek-in-zit/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Dement Stemmen op 15 maart	</title>
+	Comments on: Dement Stemmen op 15 maart	</title>
 	<atom:link href="/dement-stemmen-op-15-maart/feed/" rel="self" type="application/rss+xml" />
 	<link>/dement-stemmen-op-15-maart/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

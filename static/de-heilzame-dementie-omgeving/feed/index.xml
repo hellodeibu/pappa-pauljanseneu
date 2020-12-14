@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: De Heilzame Dementie Omgeving	</title>
+	Comments on: De Heilzame Dementie Omgeving	</title>
 	<atom:link href="/de-heilzame-dementie-omgeving/feed/" rel="self" type="application/rss+xml" />
 	<link>/de-heilzame-dementie-omgeving/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Anne-Mei The &#8230;	</title>
+	Comments on: Anne-Mei The &#8230;	</title>
 	<atom:link href="/anne-mei-the/feed/" rel="self" type="application/rss+xml" />
 	<link>/anne-mei-the/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Welzijnmatrix`	</title>
+	Comments on: Welzijnmatrix`	</title>
 	<atom:link href="/welzijnmatrix/feed/" rel="self" type="application/rss+xml" />
 	<link>/welzijnmatrix/</link>
 	<description>Mensenmens</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		Door: Hiërarchie van behoeften 2018 - Paul JansenPaul Jansen		</title>
+		By: Hiërarchie van behoeften 2018 - Paul JansenPaul Jansen		</title>
 		<link>/welzijnmatrix/#comment-146</link>
 
 		<dc:creator><![CDATA[Hiërarchie van behoeften 2018 - Paul JansenPaul Jansen]]></dc:creator>

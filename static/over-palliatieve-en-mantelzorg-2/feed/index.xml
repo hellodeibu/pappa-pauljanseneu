@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Over palliatieve- en mantelzorg.	</title>
+	Comments on: Over palliatieve- en mantelzorg.	</title>
 	<atom:link href="/over-palliatieve-en-mantelzorg-2/feed/" rel="self" type="application/rss+xml" />
 	<link>/over-palliatieve-en-mantelzorg-2/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Waar blijft de Raad voor de Seniorbescherming?	</title>
+	Comments on: Waar blijft de Raad voor de Seniorbescherming?	</title>
 	<atom:link href="/waar-blijft-de-raad-voor-de-seniorbescherming/feed/" rel="self" type="application/rss+xml" />
 	<link>/waar-blijft-de-raad-voor-de-seniorbescherming/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

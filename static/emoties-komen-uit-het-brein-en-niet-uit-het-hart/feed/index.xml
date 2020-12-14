@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Emoties komen uit het Brein, niet uit het Hart	</title>
+	Comments on: Emoties komen uit het Brein, niet uit het Hart	</title>
 	<atom:link href="/emoties-komen-uit-het-brein-en-niet-uit-het-hart/feed/" rel="self" type="application/rss+xml" />
 	<link>/emoties-komen-uit-het-brein-en-niet-uit-het-hart/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: De Vier Dimensies van Architectuur	</title>
+	Comments on: De Vier Dimensies van Architectuur	</title>
 	<atom:link href="/de-vier-dimensies-van-architectuur/feed/" rel="self" type="application/rss+xml" />
 	<link>/de-vier-dimensies-van-architectuur/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: De kracht van kwetsbaarheid	</title>
+	Comments on: De kracht van kwetsbaarheid	</title>
 	<atom:link href="/de-kracht-van-kwetsbaarheid/feed/" rel="self" type="application/rss+xml" />
 	<link>/de-kracht-van-kwetsbaarheid/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

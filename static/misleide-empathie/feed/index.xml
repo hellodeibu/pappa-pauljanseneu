@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Misleide Empathie	</title>
+	Comments on: Misleide Empathie	</title>
 	<atom:link href="/misleide-empathie/feed/" rel="self" type="application/rss+xml" />
 	<link>/misleide-empathie/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

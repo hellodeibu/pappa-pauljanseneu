@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Nelly Frijda over Dementie	</title>
+	Comments on: Nelly Frijda over Dementie	</title>
 	<atom:link href="/nelly-frijda-over-dementie/feed/" rel="self" type="application/rss+xml" />
 	<link>/nelly-frijda-over-dementie/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

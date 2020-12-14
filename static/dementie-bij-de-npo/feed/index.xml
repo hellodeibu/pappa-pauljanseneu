@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Dementie bij de NPO	</title>
+	Comments on: Dementie bij de NPO	</title>
 	<atom:link href="/dementie-bij-de-npo/feed/" rel="self" type="application/rss+xml" />
 	<link>/dementie-bij-de-npo/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

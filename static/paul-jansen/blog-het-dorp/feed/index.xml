@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Over mij en over mijn Blog &#8220;Het Dorp&#8221;	</title>
+	Comments on: Over mij en over mijn Blog &#8220;Het Dorp&#8221;	</title>
 	<atom:link href="/paul-jansen/blog-het-dorp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mensenmens</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		Door: Rosalynn		</title>
+		By: Rosalynn		</title>
 		<link>/#comment-2</link>
 
 		<dc:creator><![CDATA[Rosalynn]]></dc:creator>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: De Religie &#8216;Wetenschap&#8217;	</title>
+	Comments on: De Religie &#8216;Wetenschap&#8217;	</title>
 	<atom:link href="/de-religie-wetenschap/feed/" rel="self" type="application/rss+xml" />
 	<link>/de-religie-wetenschap/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

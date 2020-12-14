@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Brief aan mijn moeder	</title>
+	Comments on: Brief aan mijn moeder	</title>
 	<atom:link href="/brief-aan-mijn-moeder/feed/" rel="self" type="application/rss+xml" />
 	<link>/brief-aan-mijn-moeder/</link>
 	<description>Mensenmens</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		Door: Cock		</title>
+		By: Cock		</title>
 		<link>/brief-aan-mijn-moeder/#comment-46</link>
 
 		<dc:creator><![CDATA[Cock]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Door: Cock		</title>
+		By: Cock		</title>
 		<link>/brief-aan-mijn-moeder/#comment-47</link>
 
 		<dc:creator><![CDATA[Cock]]></dc:creator>

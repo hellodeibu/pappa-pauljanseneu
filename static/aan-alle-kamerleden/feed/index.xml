@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Aan alle Kamerleden	</title>
+	Comments on: Aan alle Kamerleden	</title>
 	<atom:link href="/aan-alle-kamerleden/feed/" rel="self" type="application/rss+xml" />
 	<link>/aan-alle-kamerleden/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

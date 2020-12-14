@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Wat is Wetenschap?	</title>
+	Comments on: Wat is Wetenschap?	</title>
 	<atom:link href="/wat-is-wetenschap/feed/" rel="self" type="application/rss+xml" />
 	<link>/wat-is-wetenschap/</link>
 	<description>Mensenmens</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		Door: Nel Hoogmoed		</title>
+		By: Nel Hoogmoed		</title>
 		<link>/wat-is-wetenschap/#comment-27</link>
 
 		<dc:creator><![CDATA[Nel Hoogmoed]]></dc:creator>

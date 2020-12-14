@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Omgevingszorg en BOM	</title>
+	Comments on: Omgevingszorg en BOM	</title>
 	<atom:link href="/omgevingszorg-en-bom/feed/" rel="self" type="application/rss+xml" />
 	<link>/omgevingszorg-en-bom/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

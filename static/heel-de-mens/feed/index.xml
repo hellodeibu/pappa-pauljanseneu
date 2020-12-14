@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: De Wondere Wereld van de Mens	</title>
+	Comments on: De Wondere Wereld van de Mens	</title>
 	<atom:link href="/heel-de-mens/feed/" rel="self" type="application/rss+xml" />
 	<link>/heel-de-mens/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>

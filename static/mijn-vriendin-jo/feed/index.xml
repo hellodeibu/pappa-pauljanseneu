@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: Mijn vriendin Jo	</title>
+	Comments on: Mijn vriendin Jo	</title>
 	<atom:link href="/mijn-vriendin-jo/feed/" rel="self" type="application/rss+xml" />
 	<link>/mijn-vriendin-jo/</link>
 	<description>Mensenmens</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>
-		Door: Paul Jansen		</title>
+		By: Paul Jansen		</title>
 		<link>/mijn-vriendin-jo/#comment-144</link>
 
 		<dc:creator><![CDATA[Paul Jansen]]></dc:creator>

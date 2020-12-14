@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Reacties op: DEMENTIEWIJS-boek gepubliceerd	</title>
+	Comments on: DEMENTIEWIJS-boek gepubliceerd	</title>
 	<atom:link href="/dementiewijs-boek-gepubliceerd/feed/" rel="self" type="application/rss+xml" />
 	<link>/dementiewijs-boek-gepubliceerd/</link>
 	<description>Mensenmens</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 </channel>
 </rss>
